@@ -1,0 +1,139 @@
+
+        {
+          "id": "537e6efc-6f9b-48df-aa93-064fd4a0fdc1",
+          "crossReferenceId": "316417206",
+          "images": [
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_7f3ac268-7d04-4f4c-b008-7b8e62639b88.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_45633c9a-29b5-4f9d-892d-5191f85c4ef0.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_1e9f355c-3aa5-490b-a34f-6dbd74ee5b0a.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_92b0772a-5215-4672-89c8-91ff32a005d4.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_ca6a427f-69ef-463c-aa17-1bd3aa0fd7c2.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_cf1f9118-9ebe-436c-89ca-458eee18c861.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_a9b8b99d-8e8a-42cc-9f38-eee4e4d9e510.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_3965e924-72c7-4c86-a129-1d441b2cff7c.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_01249413-023a-456b-a07a-a2d27be3c1c7.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_6f87f1e4-9eb1-427e-a3ad-5d85886e6352.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_83118e50-8323-4daa-bd6e-eddfbda3bf2d.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_8a7060b8-e079-4a86-9132-50d9662f43d5.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_a880b987-08e2-46e3-a704-7d8d3caa1bfb.jpg/250x188.webp",
+            "https://prod.pictures.autoscout24.net/listing-images/537e6efc-6f9b-48df-aa93-064fd4a0fdc1_dcd71cd7-dd56-4e98-97a9-c470b3ec4780.jpg/250x188.webp"
+          ],
+          "ocsImagesA": [],
+          "isOfferNew": true,
+          "price": {
+            "priceFormatted": "€ 11.999",
+            "priceEvaluation": 1,
+            "vatLabel": "incl. BTW",
+            "priceSuperscriptString": "1, 5",
+            "isPriceEvaluationEnabled": true
+          },
+          "availableNow": true,
+          "superDeal": { "oldPriceFormatted": "", "isEligible": false },
+          "url": "/nl/aanbod/mercedes-benz-b-180-d-diesel-zwart-537e6efc-6f9b-48df-aa93-064fd4a0fdc1",
+          "vehicle": {
+            "articleType": "Car",
+            "make": "Mercedes-Benz",
+            "model": "B 180",
+            "modelId": 18608,
+            "modelVersionInput": "d",
+            "subtitle": "Steeds mogelijkheid tot 4 jaar garantie !",
+            "offerType": "U",
+            "transmission": "Manueel",
+            "fuel": "Diesel",
+            "mileageInKm": "111.449 km"
+          },
+          "location": {
+            "countryCode": "BE",
+            "zip": "3960",
+            "city": "Bree",
+            "street": "Bruglaan 55"
+          },
+          "ratings": {
+            "ratingsCount": 18,
+            "ratingsStars": 4.5,
+            "ratingsEnabled": true
+          },
+          "seller": {
+            "dealer": { "maxImages": 30 },
+            "id": "39238802",
+            "type": "Dealer",
+            "logo": {
+              "small": {
+                "href": "https://prod.pictures.autoscout24.net/dealer-info/39238802-original-d3c19389-8630-424a-8dd0-6d6c524a9856.JPG/resize/100x50%3E/quality/90"
+              }
+            },
+            "companyName": "Mercedes - Groep Jam - Noord",
+            "contactName": "Groep Jam",
+            "links": {
+              "infoPage": "https://www.autoscout24.be/nl/verkopers/mercedes-groep-jam-noord-bree?atype=C",
+              "imprint": "https://www.autoscout24.be/nl/verkopers/mercedes-groep-jam-noord-bree/impressum"
+            },
+            "phones": [
+              {
+                "phoneType": "Office",
+                "formattedNumber": "+32 (0)89 - 680892",
+                "callTo": "+3289680892"
+              },
+              {
+                "phoneType": "Whatsapp",
+                "formattedNumber": "+32 (0)489 - 573176",
+                "callTo": null
+              }
+            ]
+          },
+          "appliedAdTier": "T50",
+          "adTier": "T50",
+          "isOcs": false,
+          "specialConditions": [],
+          "statistics": { "leadsRange": "Some" },
+          "searchResultType": "Nfm",
+          "searchResultSection": "Main",
+          "tracking": {
+            "firstRegistration": "11-2017",
+            "fuelType": "d",
+            "imageContent": "no-placeholder|0.22051386193999167",
+            "isSmyleEligible": "false",
+            "mileage": "111449",
+            "priceLabel": "top-price",
+            "price": "11999",
+            "orderBucket": "0",
+            "modelTaxonomy": "[make_id:47, model_group_id:100055, variant_id:, generation_id:342, motortype_id:707, trim_id:];"
+          },
+          "coverImageAttractiveness": 0.22051386193999167,
+          "vehicleDetails": [
+            {
+              "data": "111.449 km",
+              "iconName": "mileage_road",
+              "ariaLabel": "Kilometerstand"
+            },
+            {
+              "data": "Manueel",
+              "iconName": "gearbox",
+              "ariaLabel": "Transmissie"
+            },
+            {
+              "data": "11/2017",
+              "iconName": "calendar",
+              "ariaLabel": "Eerste inschrijving"
+            },
+            {
+              "data": "Diesel",
+              "iconName": "gas_pump",
+              "ariaLabel": "Brandstof"
+            },
+            {
+              "data": "80 kW (109 PK)",
+              "iconName": "speedometer",
+              "ariaLabel": "Vermogen"
+            }
+          ],
+          "isListingBoost": false,
+          "trackingParameters": [
+            { "key": "applied_boost_level", "value": "t50" },
+            { "key": "boost_level", "value": "t50" },
+            { "key": "topspot_algorithm", "value": "nfm-default" },
+            { "key": "topspot_dealer_id", "value": "39238802" },
+            { "key": "relevance_adjustment", "value": "sponsored" },
+            { "key": "boosting_product", "value": "mia" }
+          ]
+        }
